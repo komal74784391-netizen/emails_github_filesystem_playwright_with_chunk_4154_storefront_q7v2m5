@@ -1,3 +1,3 @@
 # Storefront Artifact Snapshots
 
-placeholder
+Updated body.
